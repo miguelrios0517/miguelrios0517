@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelrios0517
 - 👀 I’m interested in ... web and app development (desktop and mobile), React JS, 
 - 🌱 I’m currently learning ... advanced React topics, data science/ml
-- 💞️ I’m looking to collaborate on ... React JS
+- 🌱 I’m looking to collaborate on ... React JS
 - 📫 How to reach me ... miguel.rios1997@gmail.com / mrios@uw.edu
 
 Hello, nice to meet you! My name is Miguel Rios and I currently work as a freelance web developer. If you have a project in mind you would like to execute, reach out! I love designing/building web apps, from as simple as a landing page to as complex as a comprehensive dashboard application.
